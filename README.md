@@ -28,7 +28,7 @@ I'm an Undergrad Student🎓 pursuing B.Tech in ECE from  [BITS Pilani, Goa Camp
 ### Talking about Professional Stuff:
 
 - 💻 Proficient in Java.
-- 🥅 Solved 40+ Problems on [Leetcode](https://leetcode.com/priyam47/).
+- 🥅 Solved 100+ Problems on [Leetcode](https://leetcode.com/priyam47/).
 - 📷 Fun fact: I ❤️ playing Keyboard and Doodling. 
 
 <div align="center">
