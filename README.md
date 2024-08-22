@@ -21,7 +21,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height=300 width=300/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Priyam-A&color=4AB197&label=Profile+Views)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=Priyam-A&color=4AB197&label=Profile+Views)-->
 #### A little about me...  
 I'm an Undergrad Student🎓 pursuing B.Tech in ECE from  [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/)  (Graduation Year 2026). I love to explore new technologies, generate new ideas, and devise feasible solutions to real-life problems.
 
